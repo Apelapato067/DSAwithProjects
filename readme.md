@@ -10,10 +10,7 @@ This repository contains a collection of efficient and optimized solutions to va
 
 The problems are solved in multiple programming languages such as:
 
-- **JavaScript**
-- **Python**
-- **TypeScript**
-- **C++**
+- **Java**
 
 Each problem solution comes with:
 - 📄 **Problem Description**: A clear understanding of the problem.
