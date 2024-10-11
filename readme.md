@@ -30,4 +30,13 @@ This repository uses:
 ## 🙌 Acknowledgements
 Thanks to the open-source community for inspiring and supporting this project. Let's keep learning and growing together!
 
+## Please Up vote 
+<img src="assets/cat.jpeg" width="200px" />
+
+<br>
+
+**Link** : https://leetcode.com/u/thapasijan171
+
+<br>
+
 **Happy Coding! 🚀**
